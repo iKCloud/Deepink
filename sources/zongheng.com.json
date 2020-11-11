@@ -31,7 +31,8 @@
         "content":".content > p"
     
 
-    }, "auth": {
+    },
+    "auth": {
         "login": "https://passport.zongheng.com/",
         "cookie": "www.zongheng.com",
         "verify": "http://home.zongheng.com/account",
